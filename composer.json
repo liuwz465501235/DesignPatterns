@@ -6,10 +6,12 @@
         "php": ">=5.4"
     },
     "license": "MIT",
+    "version": "1.0",
     "authors": [
         {
             "name": "刘维中",
             "email": "305984035@qq.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
