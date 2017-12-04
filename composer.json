@@ -1,0 +1,15 @@
+{
+    "name": "liuwz/pdp",
+    "description": "PHP设计模式的测试文件",
+    "type": "project",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "刘维中",
+            "email": "305984035@qq.com"
+        }
+    ]
+}
